@@ -7,7 +7,7 @@ I'm Shishpal Polampally, a pre-final year engineering student with a passion for
 ## 🚀 Current Projects
 
 - **[StHub](https://github.com/shishpal0666/StHub)**: A comprehensive student management system with features like profile creation, academic tracking, note management, and more.
-- **[GeoAlert](https://github.com/shishpal0666/GeoAlert)**: An academic-focused project for managing and tracking location-based alerts.
+- **[GeoAlert](https://github.com/shishpal0666/Destination-Alert)**: An academic-focused project for managing and tracking location-based alerts.
 - **[Market Project](https://github.com/shishpal0666/Market)**: A market web application with functionalities for user login, registration, and product management.
 
 ## 📚 Skills & Technologies
