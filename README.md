@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-I'm Shishpal Polampally, a final year engineering student passionate about MERN-Stack Web Development and Machine Learning.
+I'm Shishpal Polampally, a final year engineering student studying in IIIT Pune, passionate about MERN-Stack Web Development and Machine Learning.
 
 ## 📚 Skills & Technologies
 
