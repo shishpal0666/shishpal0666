@@ -75,9 +75,9 @@ VS Code, Git, GitHub, Postman
 
 ## 🌐 Connect with Me  
 
-- [**Portfolio:**](https://shishpal-portfolio.vercel.app/)
-- [**LinkedIn:**](https://www.linkedin.com/in/shishpal-polampally/)
-- [**GitHub:**](https://github.com/shishpal0666)
+- [**Portfolio**](https://shishpal-portfolio.vercel.app/)
+- [**LinkedIn**](https://www.linkedin.com/in/shishpal-polampally/)
+- [**GitHub**](https://github.com/shishpal0666)
 
 ---
 
