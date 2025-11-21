@@ -1,7 +1,7 @@
 # 👋 Welcome to Shishpal Polampally’s GitHub Profile!
 
 ## 🌟 About Me  
-I'm **Shishpal Polampally**, a final-year **Computer Science & Engineering** student at **IIIT Pune**, passionate about **Web Development**, **Machine Learning**, and building scalable full-stack applications.
+I'm **Shishpal Polampally**, a final-year **Computer Science & Engineering** student at **IIIT Pune**, passionate about **Web Development** and **Machine Learning**.
 
 
 ---
