@@ -13,8 +13,8 @@ A MERN-stack platform for blogs, discussions, and developer knowledge sharing.
 - Implemented **JWT Authentication**, **Role-Based Access Control**, and **Google OAuth**.  
 - Optimized blog retrieval using **MongoDB indexing** on title, tags, and content.  
 - Designed scalable APIs and improved overall query performance.
-🔗 [**Live Website:**](https://dev-stack-blog.vercel.app/)
-📦 [**GitHub Repo:**](https://github.com/shishpal0666/DevStack)
+🔗 [**Live Website**](https://dev-stack-blog.vercel.app/)
+📦 [**GitHub Repo**](https://github.com/shishpal0666/DevStack)
 
 ---
 
@@ -23,8 +23,8 @@ A real-time Q&A platform for students.
 - Generated **unique codes** for each question using crypto.  
 - Added **pagination**, **lazy loading**, and **real-time answers** with Socket.IO.  
 - Achieved **99 Performance**, **96 Best Practices**, **90 SEO** Lighthouse scores.  
-🔗 [**Live Website:**](https://class-flow.vercel.app/)
-📦 [**GitHub Repo:**](https://github.com/shishpal0666/ClassFlow)
+🔗 [**Live Website**](https://class-flow.vercel.app/)
+📦 [**GitHub Repo**](https://github.com/shishpal0666/ClassFlow)
 
 ---
 
@@ -34,8 +34,8 @@ A Flask-based ML movie recommendation system.
 - Implemented **content-based filtering** using TF-IDF and Nearest Neighbors.  
 - Integrated **TMDb API** and secure authentication using Flask-WTF.  
 - Designed responsive UI with **Bootstrap**.  
-🔗 [**Live Website:**](https://moviemate-krjn.onrender.com/)
-📦 [**GitHub Repo:**](https://github.com/shishpal0666/MovieMate)
+🔗 [**Live Website**](https://moviemate-krjn.onrender.com/)
+📦 [**GitHub Repo**](https://github.com/shishpal0666/MovieMate)
 
 
 ---
