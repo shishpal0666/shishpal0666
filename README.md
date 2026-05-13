@@ -25,15 +25,3 @@ I’m passionate about **Web Development** and **Machine Learning**, and I enjoy
 - 💼 **LinkedIn:** https://www.linkedin.com/in/shishpal-polampally/  
 
 ---
-
-## 💡 Interests  
-
-- 🌐 Full Stack & Backend Development  
-- 🤖 Machine Learning & AI  
-- 🧠 Data Structures & Algorithms  
-- 🚀 Building real-world impactful projects  
-
----
-
-### ✨ Thanks for stopping by!  
-Feel free to explore my repositories and connect with me. 🚀
