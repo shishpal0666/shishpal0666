@@ -1,7 +1,5 @@
 # 👋 Welcome to Shishpal Polampally’s GitHub Profile!
 
-## 🌟 About Me  
-
 Hi! I'm **Shishpal Polampally**, a final-year **B.Tech Computer Science & Engineering** student at **IIIT Pune (2022–2026)**.
 
 - ⭐ 4★ on CodeChef  
