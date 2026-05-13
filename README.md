@@ -2,12 +2,9 @@
 
 ## 🌟 About Me  
 
-Hi! I'm **Shishpal Polampally**, a final-year **B.Tech Computer Science & Engineering** student at **IIIT Pune (2022–2026)** with a CGPA of **7.76**.  
-
-I’m passionate about **Web Development** and **Machine Learning**, and I enjoy building scalable systems and solving competitive programming problems.
+Hi! I'm **Shishpal Polampally**, a final-year **B.Tech Computer Science & Engineering** student at **IIIT Pune (2022–2026)**.
 
 - ⭐ 4★ on CodeChef  
-- 💻 Strong interest in Problem Solving  
 
 ---
 
